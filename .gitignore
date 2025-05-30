@@ -1,0 +1,17 @@
+# Ignore virtual environment inside subfolder
+transcriber-py-audio-text/venv/
+
+# General Python ignores
+__pycache__/
+*.py[cod]
+*.log
+
+# Build and dist folders
+build/
+dist/
+*.egg-info/
+
+# OS and IDE files
+.DS_Store
+.idea/
+.vscode/

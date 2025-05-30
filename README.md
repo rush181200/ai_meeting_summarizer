@@ -1,7 +1,3 @@
-Certainly! Here's your project README in the requested format:
-
----
-
 # Real-Time Meeting Transcription & Summarization App
 
 In today’s fast-paced business world, effective communication and meeting documentation are critical. This project delivers a real-time transcription and summarization application for business meetings, combining cutting-edge AI with robust backend and frontend technologies. It enables seamless audio processing, instant text conversion, and insightful summaries to boost productivity and collaboration.
@@ -113,7 +109,3 @@ The backend is deployed serverlessly on **AWS Lambda** with **AWS RDS (MySQL)** 
 * [gRPC Official Site](https://grpc.io/)
 * [AWS Lambda Developer Guide](https://docs.aws.amazon.com/lambda/latest/dg/welcome.html)
 * [Python LLaMA Repository](https://github.com/facebookresearch/llama)
-
----
-
-If you want me to help create any specific section in more detail, just ask!

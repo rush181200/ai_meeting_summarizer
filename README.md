@@ -4,7 +4,7 @@ Hi there! 👋
 This is a project I’ve been working on to make meeting follow-ups easier. It’s an AI-powered tool that records, transcribes, and summarizes meetings so you never miss the key points.
 
 
-![App UI](assets/AI_Meeting_Summarizer.drawio.png)
+![App UI](assets/ai.svg)
 
 
 ---
